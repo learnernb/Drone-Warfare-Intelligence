@@ -150,52 +150,55 @@ The project uses manually curated and standardized datasets based on:
 ### Dashboard Overview
 Interactive Power BI dashboard providing insights into global drone warfare activity, defense systems, and geopolitical conflict trends.
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](dashboard-overview.png)
 
 ---
 
 ### Conflict & Regional Analysis
 Comparative analysis of drone warfare activity across regions including Ukraine-Russia, Iran-USA, and India-focused defense datasets.
 
-![Conflict Analysis](screenshots/conflict-analysis.png)
+![Ukraine Russia Analysis](ukraine-russia-analysis.png)
+![Iran US Analysis](iran-us-analysis.png)
 
 ---
 
 ### Drone Category & Defense Systems
 Visualization of drone categories, anti-drone technologies, interception systems, and operational patterns.
 
-![Drone Category Analysis](screenshots/drone-category-analysis.png)
+![Drone Category Analysis](india-drone-capability.png)
 
 ---
 
 ### Trend Analysis
 Trend-based visualizations highlighting drone activity patterns, interception trends, and temporal conflict insights.
 
-![Trend Analysis](screenshots/trend-analysis.png)
+![Trend Analysis](ukraine-russia-analysis.png)
 
 # 📂 Project Structure
 
 ```bash
-Drone-Warfare-Analytics/
+drone-warfare-intelligence/
 │
-├── datasets/
-│   ├── India_Drone_Capability.xlsx
-│   ├── Operation_Sindoor.xlsx
-│   ├── Counter_Drone_Systems.xlsx
-│   └── Iran_USA_Warfare.xlsx
+├── Dataset/
+│   ├── DroneTypeCategory-Platforms-EstQuantityUnits-Notes.csv
+│   ├── India_Anti_Drone_Standardized.xlsx
+│   ├── India_Defence_Range_Data.xlsx
+│   ├── India_Drone_Categories_Standardized.xlsx
+│   ├── Interception Data.xlsx
+│   ├── IranUsaDronewarfare.xlsx
+│   ├── Operation_Sindoor_Drone_Dataset.xlsx
+│   └── UkraineRussiaDrone.xlsx
 │
-├── images/
-│   ├── Cover.png
-│   ├── India_Strategy.png
-│   ├── Operation_Sindoor.png
-│   ├── Russia_Ukraine.png
-│   ├── Iran_USA.png
-│   └── Final_Insights.png
+├── dashboard-overview.png
+├── interception-analysis.png
+├── final-insights.png
+├── india-drone-capability.png
+├── iran-us-analysis.png
+├── ukraine-russia-analysis.png
 │
-├── Drone_Warfare_Analytics.pbix
+├── drone-warfare-dashboard.pbix
+│
 └── README.md
-```
-
 ---
 
 # 🎯 Key Strategic Insights
