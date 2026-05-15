@@ -1,4 +1,4 @@
-# 🚀 Drone Warfare Analytics  
+# Drone Warfare Intelligence Dashboard
 ### Counter-Drone Strategy & Modern Aerial Conflict Intelligence
 
 > *“Low Cost. High Impact. The New Face of Warfare.”*
