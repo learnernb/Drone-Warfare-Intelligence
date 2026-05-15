@@ -158,7 +158,6 @@ Interactive Power BI dashboard providing insights into global drone warfare acti
 Comparative analysis of drone warfare activity across regions including Ukraine-Russia, Iran-USA, and India-focused defense datasets.
 
 ![Ukraine Russia Analysis](ukraine-russia-analysis.png)
-![Iran US Analysis](iran-us-analysis.png)
 
 ---
 
@@ -172,7 +171,7 @@ Visualization of drone categories, anti-drone technologies, interception systems
 ### Trend Analysis
 Trend-based visualizations highlighting drone activity patterns, interception trends, and temporal conflict insights.
 
-![Trend Analysis](ukraine-russia-analysis.png)
+![Trend Analysis](interception-analysis.png)
 
 # 📂 Project Structure
 
