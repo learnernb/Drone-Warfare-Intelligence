@@ -150,7 +150,7 @@ The project uses manually curated and standardized datasets based on:
 ### Dashboard Overview
 Interactive Power BI dashboard providing insights into global drone warfare activity, defense systems, and geopolitical conflict trends.
 
-![Dashboard Overview](dashboard-overview.png)
+![Dashboard Overview](Dashboard.png)
 
 ---
 
